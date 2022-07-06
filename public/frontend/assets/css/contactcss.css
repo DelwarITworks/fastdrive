@@ -1,0 +1,125 @@
+
+
+.contact_page .map iframe {
+    width: 100%;
+    height: 500px;
+}
+
+
+/* contact page  */
+.contact_page .contact_form {
+    padding: 80px 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.213);
+    height: 100%;
+}
+
+.contact_page .contact_form form {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.contact_page .contact_form form h3 {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 35px;
+    color: var(--primary-color);
+}
+
+.contact_page .contact_form label {
+    color: #222;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.contact_page .contact_form input,
+.contact_page .contact_form textarea {
+    display: block;
+    border: 1px solid var(--primary-color);
+    border-radius: 5px;
+    outline: none;
+    color: #777;
+    font-size: 16px;
+    padding: 0 15px;
+    height: 40px;
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.contact_page .contact_form textarea {
+    min-height: 130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.contact_details .top_box h3 {
+    color: #222;
+    font-weight: bold;
+    font-size: 27px;
+    letter-spacing: 1.5px;
+    margin-bottom: 15px;
+}
+
+.contact_details .top_box p {
+    font-size: 20px;
+    color: #777;
+    margin-bottom: 40px;
+}
+
+.contact_details .contact_info .icon i {
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    line-height: 32px;
+    font-size: 17px;
+    color: #fff;
+    background-color: var(--primary-color);
+    border-radius: 100px;
+    margin-right: 8px;
+}
+
+
+.contact_details .contact_info .contact_social h4 {
+    color: #222;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.contact_details .contact_info .social_icon {
+    margin-bottom: 40px;
+}
+
+.contact_details .contact_info .social_icon i {
+    height: 35px;
+    width: 35px;
+    text-align: center;
+    line-height: 35px;
+    font-size: 18px;
+    color: #fff;
+    background-color: var(--primary-color);
+    border-radius: 100px;
+    margin-right: 8px;
+}
+
+.contact_details .contact_info .social_icon i:hover {
+    background-color: var(--secondary-color);
+}
+
+.contact_page .map iframe {
+    width: 100%;
+    height: 500px;
+}
+
+
+
+
